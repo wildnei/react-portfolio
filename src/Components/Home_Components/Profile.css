@@ -1,0 +1,62 @@
+
+.Jumbotron {
+    background-image: url('../../Assets/profile.jpeg');
+    background-size:cover;
+    background-repeat:no-repeat;
+    height: 70vh;
+    background-position: center center;
+}
+
+.background-tint {
+  background-color: rgba(0, 0, 0, 0.5);
+  background-blend-mode: multiply;
+}
+
+@media only screen and (max-device-width: 1280px) {
+  .Jumbotron {
+    height: 60vh;
+  }
+
+  #heroText {
+    padding-top: 18vh;
+    font-size: 6vw;
+    color: rgb(0, 118, 187);
+    font-family: ubuntu;
+    margin-right: 100px;
+    margin-left: 100px;
+    
+}
+
+    }
+
+    @media only screen and (max-device-width: 800px) {
+  .Jumbotron {
+    height: 50vh;
+  }
+
+  #heroText {
+    padding-top: 10vh;
+    font-size: 7vw;
+    color: white;
+    font-family: ubuntu;
+    margin-right: 100px;
+    margin-left: 100px
+}
+
+    }
+
+@media only screen and (max-device-width: 567px) {
+  .Jumbotron {
+    height: 30vh;
+  }
+
+  #heroText {
+    padding-top: 7vh;
+    font-size: 6vw;
+    color: white;
+    font-family: ubuntu;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+    }

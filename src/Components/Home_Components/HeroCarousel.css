@@ -1,0 +1,69 @@
+#heroText {
+    padding-top: 25vh;
+    font-size: 3.5vw;
+    color: white;
+    font-family: ubuntu;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.Jumbotron1 {
+    background-image: url('../../Assets/img0.jpg');
+    background-size: cover;
+    height: 70vh;
+    background-position: center center;
+}
+
+.background-tint {
+  background-color: rgba(0, 0, 0, 0.5);
+  background-blend-mode: multiply;
+}
+
+@media only screen and (max-device-width: 1280px) {
+  .Jumbotron {
+    height: 60vh;
+  }
+
+  #heroText {
+    padding-top: 18vh;
+    font-size: 6vw;
+    color: rgb(0, 118, 187);
+    font-family: ubuntu;
+    margin-right: 100px;
+    margin-left: 100px;
+    
+}
+
+    }
+
+    @media only screen and (max-device-width: 800px) {
+  .Jumbotron1 {
+    height: 50vh;
+  }
+
+  #heroText {
+    padding-top: 10vh;
+    font-size: 7vw;
+    color: white;
+    font-family: ubuntu;
+    margin-right: 100px;
+    margin-left: 100px
+}
+
+    }
+
+@media only screen and (max-device-width: 567px) {
+  .Jumbotron1 {
+    height: 30vh;
+  }
+
+  #heroText {
+    padding-top: 7vh;
+    font-size: 6vw;
+    color: white;
+    font-family: ubuntu;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+    }

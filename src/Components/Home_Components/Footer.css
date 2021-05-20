@@ -1,0 +1,16 @@
+.footerMargin {
+    font-family: roboto;
+    position: absolute!important;
+    bottom: auto;
+    padding: 4vh;
+    background-color: #F3F3F3;
+    width: 105% !important;
+}
+
+.bodyTextFooter {
+    font-size: 0.8em;
+}
+
+.footerColumn1 {
+    margin-top: 10px;
+}
