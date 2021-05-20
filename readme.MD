@@ -1,102 +1,62 @@
-# Unit 20 React Homework: React Portfolio
-
-Now that you've worked with React and have multiple projects to share, you'll be updating your portfolio and other materials to build toward being employer competitive. Creating a portfolio using React will help set you apart from other developers whose portfolios do not use some of the latest technologies.
-
-If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but is still *critical* on your journey as a developer.
-
-## Requirements
-
-* Updated portfolio featuring 6 total projects
-
-* Use React
-
-* A `Header` component that appears on multiple pages
-
-* A single `Project` component that will be used multiple times on a single page 
-
-* Navigation with React Router, dynamic rendering, or another third part router
-
-* A `Footer` component that appears on multiple pages
-
-* Update GitHub profile with pinned repositories featuring those same projects
-
-* Deploy this site to GitHub Pages using the [Create React App docs for deployment.](https://create-react-app.dev/docs/deployment/#github-pages)
-
-* **Important**: Be sure to push your codebase to GitHub and **NOT** your built and deployed code. Ensure this happens by following the above instructions and using the `gh-pages` branch to host the deployed application's code.
-
-## Grading
-
-| Requirement    | Weight |
-| -------------- | ------ |
-| Portfolio      | 90%    |
-| GitHub Profile | 10%    |
 
 
-## Instructions
+## Table of Contents
 
-* [Updated Portfolio](#updated-portfolio)
+* [Description](#description)
+* [How to Execute Application](#How-to-execute-application)
+* [Example](#example)
+* [Contact Information](#Contact-information)
 
-* [Design](#design)
+# Project
 
-* [React](#react)
+React Portfolio
 
-* [Updated LinkedIn Profile](#updated-linkedin-profile)
+## Description
 
-### Updated Portfolio
+I built this website using entirely React with components of React-Bootstrap as well
 
-Your updated site should still have all of the content it previously had:
+## Technologies needed to execute the code in NODE.JS
 
-* Your name
+``` npm install install / npm start  ```
 
-* Links to your GitHub profile & LinkedIn page as well as your email address and phone number
+## Example
 
-* A link to a PDF of your resume with updated projects
+![Image](https://ik.imagekit.io/devdojo/readme_gif/fitnesstracker_Hq8GPzEF2V.gif)
 
-* A list of projects. For each project, make sure you have the following:
+## Project Owner
 
-  * Project title
+Wildnei Queiroz
 
-  * Link to the deployed version
+## Contact Information
 
-  * Link to the GitHub repository
+For more information please contact: wildneisuane@gmail.com
 
-  * GIF or screenshot of the deployed application
+## Github Profile
 
+For more projects please check my [GitHub](https://github.com/https://github.com/wildnei) profile
 
-#### Design
+## Technologies used
 
-As with the previous portfolio homework, "good" design is subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
-
-* Mobile-first design
-
-* Choose a color palette for your site so it doesn't just look like the default bootstrap theme or an unstyled HTML site.
-
-* Make sure the font size is large enough to read, and that the colors don't cause eye strain.
-
-* If you want to go above and beyond, try using animations and react component libraries. Note 
-that this will _not_ affect your grade, but it may impact how potentials employers gauge your knowledge.
-
-### React
-
-Additionally, this new portfolio should be created using React.
-
-At a minimum, your portfolio should include the following:
-
-* A `Header` component that appears on multiple pages
-
-* A single `Project` component that will be used multiple times on a single page 
-
-* Navigation with React Router, dynamic rendering, or another third part router
-
-* A `Footer` component that appears on multiple pages
-
-* **Important**: If you use React Router, you will **NOT** be able to use the `<BrowserRouter>` component on GitHub Pages. Read the [GitHub note on client-side routing](https://create-react-app.dev/docs/deployment/#notes-on-client-side-routing) and the [React Router documentation on HashRouter](https://reactrouter.com/web/api/HashRouter) for more information.
+- [x] React
+- [x] React-Bootstrap
 
 
-### Updated LinkedIn Profile 
+## LinkedIn Profile
 
-Make sure to update your LinkedIn Profile with the new skills you've acquired since the last time it was updated.
+[LinkedIn Profile](https://linkedin.com/in/wildneisuane)
 
-- - -
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+## License
+
+<details>
+            <summary>
+                <a>Show License</a>
+            </summary>
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+    
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+    </details>
+
+
+
+    
