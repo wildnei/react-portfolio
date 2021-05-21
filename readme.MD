@@ -21,7 +21,7 @@ I built this website using entirely React with components of React-Bootstrap as 
 
 ## Example
 
-![Image](https://ik.imagekit.io/devdojo/readme_gif/fitnesstracker_Hq8GPzEF2V.gif)
+![Image](https://ik.imagekit.io/devdojo/readme_gif/portfolio_kHAPlIZep.PNG)
 
 ## Project Owner
 
